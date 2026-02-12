@@ -26,8 +26,8 @@ _site
 _data
 dist
 report.html
-/lib
-/es
+# /lib
+# /es
 /locale
 elasticsearch-*
 config/base.yaml
